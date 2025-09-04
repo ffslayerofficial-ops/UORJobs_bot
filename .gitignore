@@ -1,0 +1,8 @@
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+venv/
+*.db
